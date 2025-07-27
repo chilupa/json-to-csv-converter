@@ -1,0 +1,37 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "color": "Silver",
+    "price": 25000
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "color": "Blue",
+    "price": 22000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2021,
+    "color": "Red",
+    "price": 45000
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2022,
+    "color": "White",
+    "price": 55000
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "color": "Black",
+    "price": 65000
+  }
+]
